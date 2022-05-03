@@ -1,0 +1,6 @@
+A simple css based project 
+
+This project shows how to use a simple class and id in styles to add some style 
+it shows how one could style a div or a div inside a div and make it float in the center it could make things stay at in line or flex it in a different direction if wanted 
+
+it uses flex direction in 2 ways row and you could change its way to column 

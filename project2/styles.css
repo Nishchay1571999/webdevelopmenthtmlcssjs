@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/* property : value fomat always  */
+
+* {
+    box-sizing: border-box;
+
+}
+
+
+
+body {
+    background-color: rgb(178, 197, 214);
+    font-family: 'Poppins','sans-serif';
+    margin: 0;
+    
+
+}
+/* file based css */
+/* tag selector */
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.main>p{
+    background-color: whitesmoke;
+    color: brown;
+    text-align: center;
+    width: 45%;
+}
+.main>h1{
+    text-align: center;
+    width: 75%;
+
+}
+.main > #last-div{
+    margin: 30px;
+    background-color: whitesmoke;
+    color: brown;
+    text-align: center;
+    width: 95%;
+    border-radius: 5px;
+    padding: 20px;
+}
+table,thead,tbody,tr,td,th{
+    border: 2px solid black;
+    margin: 2px;
+    padding: 12px;
+    text-align: center;
+}
+.imp{
+    text-align: center;
+}
