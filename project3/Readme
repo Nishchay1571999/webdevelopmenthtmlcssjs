@@ -1,1 +1,3 @@
-rememeber to have the script link tag at the bottom scince the browser always renders Top to bottom the script tag should come after everything is rendered 
+A simple increment and decrement counter project which uses
+A queryselector to add in value to the html and change its value 
+A EventListner which reads if the button is clicked and executes a function to increment and decrement and show the value
