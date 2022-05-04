@@ -1,0 +1,1 @@
+rememeber to have the script link tag at the bottom scince the browser always renders Top to bottom the script tag should come after everything is rendered 
