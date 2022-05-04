@@ -1,0 +1,3 @@
+This project consists of all the technical details of how to append a child and how to delete a child. This project shows how to add a list itme in a unordered list usinf apendchild method and create child attreibute using createElement method 
+
+for deletion we use the remove method. By selecting the required list item from the query selector method using a specific data attribute set to each column we select the required list item and remove it 
