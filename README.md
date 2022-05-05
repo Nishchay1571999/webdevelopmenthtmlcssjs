@@ -17,5 +17,7 @@ Projects :
 
 6. This project talks about es6 destructuring and its uses and it also talks about array functions in js like find, forEach, filter and map.
 
+7. this projects looks through Javascript templates literals.
+
 
 
