@@ -15,7 +15,7 @@ Projects :
 
 5. This project talks about including css and using it in javascript 
 
-6. This project talks about es6 destructuring and its uses.
+6. This project talks about es6 destructuring and its uses and it also talks about array functions in js like find, forEach, filter and map.
 
 
 
